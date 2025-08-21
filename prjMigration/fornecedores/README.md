@@ -34,7 +34,7 @@
 
 *7)* Agora, publique as tabelas com o seguinte comando:
 
-<img width="424" height="25" alt="phpartisan" src="https://github.com/user-attachments/assets/c07e4f52-a669-4ad8-8d65-11837971b18f" />
+<img width="1075" height="323" alt="database" src="https://github.com/user-attachments/assets/9bb3c4e6-c8cd-4d1a-9d15-a192d0061a67" />
 
 - Tabela Cadastro:
   
